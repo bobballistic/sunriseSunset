@@ -13,6 +13,7 @@
 		A16AFC8B19E71192005C9385 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A16AFC8A19E71192005C9385 /* Images.xcassets */; };
 		A16AFC8E19E71192005C9385 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A16AFC8C19E71192005C9385 /* LaunchScreen.xib */; };
 		A16AFC9A19E71192005C9385 /* sunsetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16AFC9919E71192005C9385 /* sunsetTests.swift */; };
+		A16AFCA419E718E9005C9385 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = A16AFCA319E718E9005C9385 /* sun.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A16AFC9319E71192005C9385 /* sunsetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sunsetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A16AFC9819E71192005C9385 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A16AFC9919E71192005C9385 /* sunsetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sunsetTests.swift; sourceTree = "<group>"; };
+		A16AFCA319E718E9005C9385 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sun.png; path = ../../sun.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				A16AFC8319E71192005C9385 /* AppDelegate.swift */,
 				A16AFC8519E71192005C9385 /* ViewController.swift */,
 				A16AFC8719E71192005C9385 /* Main.storyboard */,
+				A16AFCA319E718E9005C9385 /* sun.png */,
 				A16AFC8A19E71192005C9385 /* Images.xcassets */,
 				A16AFC8C19E71192005C9385 /* LaunchScreen.xib */,
 				A16AFC8119E71192005C9385 /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A16AFCA419E718E9005C9385 /* sun.png in Resources */,
 				A16AFC8919E71192005C9385 /* Main.storyboard in Resources */,
 				A16AFC8E19E71192005C9385 /* LaunchScreen.xib in Resources */,
 				A16AFC8B19E71192005C9385 /* Images.xcassets in Resources */,
