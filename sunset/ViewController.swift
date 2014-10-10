@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     
         var url = "http://www.timeanddate.com/astronomy/uk/london"
         var urlString = NSURL(string: url)
+// insert the url inside NSURL(string: "")
         
         let task = NSURLSession.sharedSession().dataTaskWithURL(urlString) {(data, response, error) in
         
